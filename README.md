@@ -14,7 +14,7 @@
 # Test case
 
 - input = `[[59], [73, 41], [52, 40, 53], [26, 53, 6, 34]]` output = `237`
-- input = <https://github.com/7-solutions/backend-challenge/blob/main/files/hard.json> output = `7273`
+- input = <https://github.com/yghiringdev/test/blob/main/files/hard.json> output = `7273`
 
 ## 2. จับฉันให้ได้สิ ซ้าย-ขวา-เท่ากับ
 
